@@ -1,0 +1,12 @@
+{
+  "origins": [
+    "https://giscus.app",
+    "https://foxteck.pages.dev"
+  ],
+  "originsRegex": [
+    "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
+    "https://([A-z0-9])\\.foxteck\\.pages\\.dev"
+    "http://localhost:[0-9]+"
+  ],
+  "defaultCommentOrder": "newest"
+}
